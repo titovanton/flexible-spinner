@@ -60,5 +60,7 @@
                 target.trigger('flexible-spinner-after-done')
             }, settings.after_done)
         })
+
+        return target
     }
 })(jQuery)
