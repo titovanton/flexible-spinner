@@ -4,7 +4,7 @@
         var after_time_out_id = null
         var interval_id       = null
         var target            = this
-        settings = {
+        var settings = {
             inc              : 'inc-selector',
             dec              : 'dec-selector',
             sticky_key       : true,
