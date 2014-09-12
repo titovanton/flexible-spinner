@@ -63,4 +63,4 @@
 
         return target
     }
-})(jQuery)
+})(jQuery);
