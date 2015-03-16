@@ -18,8 +18,8 @@
             settings =
 
                 # could be init from data-<name> attrs
-                inc: '.inc-spinner'
                 dec: '.dec-spinner'
+                inc: '.inc-spinner'
                 stickyKeyDelay: 500
                 stickyChangeSpeed: 50
 
